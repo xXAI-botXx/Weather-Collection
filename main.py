@@ -3,8 +3,8 @@ from datetime import datetime as dt
 import collect
 import collect_emmendingen
 
-# every 10 Minutes
-seconds_until_next_check = 60*10
+# every hour
+seconds_until_next_check = 60*60
 
 def wait(last_stamp):
     time_diff = dt.now() - last_stamp
