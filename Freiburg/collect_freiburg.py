@@ -1,17 +1,18 @@
 import csv
 from datetime import datetime as dt
 
-from wheather_bot import Wheather_Bot
+from weather_bot import Weather_Bot
 
 class Collector(object):
 
-    REAL_FIELDS = ['time', 'date', 'real_temperature', 'real_wind_mean', 'real_wind_gusts',
-              'real_wind_direction', 'real_weather_state', 'real_visibility']
+    REAL_FIELDS = ['time', 'date', 'real_temperature', 'real_dew_point', 'real_humidity',
+                   'real_weather_state', 'real_visibility', 'real_rainfall', 
+                   'real_air_pressure', 'real_wind', 'real_wind_gusts', 'real_wind_direction']
 
     PRED_FIELDS = []
 
     def __init__(self):
-        self.bot = Wheather_Bot()
+        self.bot = Weather_Bot()
    
     def run(self):
        real_data, pred_data = self.bot.run()
