@@ -29,8 +29,8 @@ class Weather_Bot(object):
         # real data
         self.collect_real_data()
         # predicted data
-        self.collect_predicted_data()
-        return (self.real_data, self.pred_data)
+        #self.collect_predicted_data()
+        return (self.real_data, None)
 
     def wait(self, element, mode) -> bool:
         try:
@@ -83,7 +83,10 @@ class Weather_Bot(object):
     def call_real_data_website(self):
         #self.driver = webdriver.Edge('Freiburg/Driver/msedgedriver.exe')
         #self.driver = webdriver.Firefox()
-        self.driver = webdriver.Chrome("Freiburg/Driver/chromedriver.exe")
+        chrome_options = Options()
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        self.driver = webdriver.Chrome("Freiburg/Driver/chromedriver.exe", options=chrome_options)
         self.driver.get(self.REAL_DATA_URL)
         time.sleep(random.randint(self.WAIT_TIME_MIN, self.WAIT_TIME_MAX))
         elem = self.driver.find_element_by_xpath("//button[@class='cc-nb-okagree']")
@@ -173,7 +176,7 @@ class Weather_Bot(object):
             for elem in elements:
                 if elem.text.startswith("Wetterzustand:"):
                 #if "Wetterzustand:" in elem.text:
-                    return " ".join(elem.text.split(" ")[1:])
+                    return " ".join(elem.text.split(" ")[1:]).replace('ö', 'oe').replace('ä', 'ae').replace('ü', 'ue')
             return -999
         except:
             return -999
