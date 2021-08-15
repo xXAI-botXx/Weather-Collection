@@ -2,7 +2,7 @@ import csv
 import os
 from datetime import datetime as dt
 
-from weather_bot import Weather_Bot
+from Freiburg.weather_bot import Weather_Bot
 
 class Collector(object):
 
@@ -14,12 +14,13 @@ class Collector(object):
 
     def __init__(self):
         self.bot = Weather_Bot()
+        self.write_log("bot is now online")
    
     def run(self):
        real_data, pred_data = self.bot.run()
        self.save_real(real_data)
        #self.save_pred(pred_data)
-       self.write_log("\nNew Wheather Data Entry was collected.\n")
+       self.write_log("bot collected weather data")
 
     # entferne die letzte Zeile -> es soll nur eine letzte Zeile geben
     def save_real_alt(self, new_entry:dict):
@@ -84,17 +85,19 @@ class Collector(object):
 
         # clone content
         with open('Freiburg/DATA/freiburg_real_weather_data.csv', 'r') as f:
-            clone = f.readlines()
+            clone = "".join(f.readlines())
 
         # write clone as backup
         with open(f"{path}/Freiburg/backup/{name}", "w") as f:
             f.write(clone)
 
+        self.write_log("bot created a backup")
+
 
     def write_log(self, txt:str):
         now = dt.now()
         with open('Freiburg/DATA/log.txt', 'a') as f:
-            f.write(f"- {now}   {txt}")
+            f.write(f"- {now}   {txt}\n\n")
 
     
 if __name__ == '__main__':
