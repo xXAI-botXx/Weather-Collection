@@ -1,0 +1,99 @@
+body {
+	background-image:linear-gradient(270deg, #7fdae6 5%, white 80%);
+	width:center;
+}
+
+a{
+	color:#0066ff;
+}
+
+a:hover {  /*auf überschrift fabänderung*/
+   color:#0066ff;
+}
+
+
+#title {
+ 	text-align:center;
+	color: #0066ff;
+	padding-top:50px;
+	width:center;
+	border:5px;
+	font: bold 5em Helvetica, Arial, Sans-Serif;
+	position: center;
+}
+
+#undertitle {
+	text-align:center;
+	color: #0066ff;
+	padding-top:0px;
+	width:center;
+	font-size: 5;
+	position: center;
+	font: 1em Helvetica, Arial, Sans-Serif;
+}
+
+/** Reiter **/
+#menu-bar {
+	display: none;
+	overflow: hidden;
+	background-color:#0066ff;
+	border-radius:1em;
+	margin-top:35px;
+	border:2px solid black;
+}
+
+#menu-bar a{
+	float: left;
+    display: block;
+    color: black;
+    text-align: center;
+	padding: 20px 25px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#menu-bar a:hover {
+    background-color: #a1710b;
+    color: black;
+}
+
+.active {
+	color: aqua;
+}
+
+/** Gesammelte Wetterdaten **/
+#data {
+	text-align:center;
+	color: #023583;
+	font-size: 10;
+	position: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	font: 1em Helvetica, Arial, Sans-Serif;
+}
+
+/** Untere Box **/
+.info {
+	color:white;
+}
+
+.up {
+	color: #0066ff;
+}
+
+.bottom-box {
+	background-color:black;
+	text-align:center;
+	padding-top:10px;
+	padding-bottom:10px;
+	margin-bottom:50px;
+}
+
+/** Datenschutz und Impressum **/
+.privacy {
+	border:10px solid #0066ff; 
+	background-color:black;
+	color:white;
+	padding:25px;
+	margin:50px;
+}

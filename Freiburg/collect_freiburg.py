@@ -99,6 +99,12 @@ class Collector(object):
         with open('Freiburg/DATA/log.txt', 'a') as f:
             f.write(f"- {now}   {txt}\n\n")
 
+
+def get_collected_data() -> list:
+    with open('Freiburg/DATA/freiburg_real_weather_data.csv', 'r') as f:
+        clone = "".join(f.readlines()).split("\n")
+    return clone
+
     
 if __name__ == '__main__':
     collector = Collector()
