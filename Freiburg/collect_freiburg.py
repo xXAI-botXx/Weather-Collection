@@ -2,10 +2,9 @@ import csv
 import os
 from datetime import datetime as dt
 import pandas as pd
-import visualizer
+import Freiburg.visualizer
 
-#from Freiburg.weather_bot import Weather_Bot
-from weather_bot import Weather_Bot
+from Freiburg.weather_bot import Weather_Bot
 
 class Collector(object):
 
@@ -25,7 +24,6 @@ class Collector(object):
        #self.save_pred(pred_data)
        self.write_log("bot collected weather data")
        self.visualisation()
-       self.write_log("bot visualized weather data attributes")
 
     # entferne die letzte Zeile -> es soll nur eine letzte Zeile geben
     def save_real_alt(self, new_entry:dict):
@@ -110,7 +108,11 @@ class Collector(object):
         # get data as pandas
         data = pd.read_csv('Freiburg/DATA/freiburg_real_weather_data.csv', sep=',')
         # visualize
-        visualizer.data_visualisation(data)
+        if data.shape[0] > 1:    # mindestends 2 Datenpunkte!
+            visualizer.data_visualisation(data)
+            self.write_log("bot visualized weather data attributes")
+        else:
+            print("Not enough datapoints!")
 
 
 def get_collected_data() -> list:

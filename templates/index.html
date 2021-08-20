@@ -13,15 +13,31 @@
 
         <div id="menu-bar">
             <a href="{{url_for('home')}}" class="active" >Home</a>
+            <a href="{{url_for('visualization')}}">Visualisierungen</a>
             <a href="{{url_for('features')}}" >Features</a>
-            <a href="{{url_for('collection')}}" >Collection</a>
+            <a href="{{url_for('collection')}}" >Datensammlung</a>
             <a href="{{url_for('analyse')}}" >Analyse</a>
         </div>
 
         <div id="data">
-            {% for line in range(rows) %}
-                <p>{{data[line]}}</p>
-            {% endfor %}
+            <!-- {% for line in range(rows) %}
+                <p>{{data[line]}}</p> 
+            {% endfor %} -->
+            <p id="data-title-1">Datenattribute visualisiert:</p>
+            <p id="data-title-2">aktuelle Anzahl: {{rows}}</p>
+            <img src="{{url_for('static', filename='vis_hour.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_minute.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_date.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_weather_state.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_temperature.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_dew_point.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_humidity.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_rainfall.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_air_pressure.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_visibility.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_wind.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_wind_gusts.png')}}"></img>
+            <img src="{{url_for('static', filename='vis_wind_direction.png')}}"></img>
         </div>
 
         <div class="bottom-box">

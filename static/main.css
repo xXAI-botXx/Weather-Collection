@@ -34,7 +34,7 @@ a:hover {  /*auf überschrift fabänderung*/
 
 /** Reiter **/
 #menu-bar {
-	display: none;
+	/**display: none;**/
 	overflow: hidden;
 	background-color:#0066ff;
 	border-radius:1em;
@@ -44,7 +44,7 @@ a:hover {  /*auf überschrift fabänderung*/
 
 #menu-bar a{
 	float: left;
-    display: block;
+    /**display: block;**/
     color: black;
     text-align: center;
 	padding: 20px 25px;
@@ -53,12 +53,12 @@ a:hover {  /*auf überschrift fabänderung*/
 }
 
 #menu-bar a:hover {
-    background-color: #a1710b;
+    background-color: #033a8b;
     color: black;
 }
 
 .active {
-	color: aqua;
+	background-color: rgb(0, 204, 255);
 }
 
 /** Gesammelte Wetterdaten **/
@@ -70,6 +70,27 @@ a:hover {  /*auf überschrift fabänderung*/
 	padding-top: 50px;
 	padding-bottom: 30px;
 	font: 1em Helvetica, Arial, Sans-Serif;
+}
+
+#data-title-1 {
+	padding-left:10%;
+	text-align:left;
+}
+
+#data-title-2 {
+	padding-left:10%;
+	padding-bottom:25px;
+	text-align:left;
+}
+
+img {
+	/**max-width: 70%;
+	max-height:50%;
+	width:auto;
+	height:auto;**/
+	padding:8%;
+	/**width: 65%;
+	height: auto;**/
 }
 
 /** Untere Box **/

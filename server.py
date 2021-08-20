@@ -11,17 +11,21 @@ def home():
     data = cf.get_collected_data()
     return render_template('index.html', data=data, rows=len(data))
 
+@app.route('/visualization')
+def visualization():
+    return render_template('visualization.html')
+
 @app.route('/features')
 def features():
-    pass
+    return render_template('features.html')
 
 @app.route('/collection')
 def collection():
-    pass
+    return render_template('collection.html')
 
 @app.route('/analyse')
 def analyse():
-    pass
+    return render_template('analysis.html')
 
 @app.route('/datenschutz')
 def datenschutz():
