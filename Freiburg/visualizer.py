@@ -1,8 +1,8 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-color = 'blue'
-bg_color = 'grey'
+color = '#ffcc5c'
+bg_color = '#230070'
 
 def data_visualisation(data:pd.DataFrame) -> None:
     # data preparation
