@@ -28,7 +28,7 @@ def data_visualisation(data:pd.DataFrame) -> None:
 
 def vis_hour(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="hour",      # Column to plot
@@ -59,7 +59,7 @@ def vis_hour(df:pd.DataFrame):
 
 def vis_minute(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color,   
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color,   
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="minute",      # Column to plot
@@ -89,7 +89,7 @@ def vis_minute(df:pd.DataFrame):
 
 def vis_date(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df['date'].value_counts(normalize=False).plot(kind="bar",             
@@ -108,7 +108,7 @@ def vis_date(df:pd.DataFrame):
 
 def vis_temperature(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_temperature",       # Column to plot
@@ -141,7 +141,7 @@ def vis_temperature(df:pd.DataFrame):
 
 def vis_dew_point(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_dew_point",       # Column to plot
@@ -174,7 +174,7 @@ def vis_dew_point(df:pd.DataFrame):
 
 def vis_humidity(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_humidity",       # Column to plot
@@ -207,7 +207,7 @@ def vis_humidity(df:pd.DataFrame):
 
 def vis_weather_state(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df['real_weather_state'].value_counts(normalize=True).plot(kind="bar",             
@@ -226,7 +226,7 @@ def vis_weather_state(df:pd.DataFrame):
 
 def vis_visibility(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_visibility",       # Column to plot
@@ -259,7 +259,7 @@ def vis_visibility(df:pd.DataFrame):
 
 def vis_rainfall(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_rainfall",       # Column to plot
@@ -292,7 +292,7 @@ def vis_rainfall(df:pd.DataFrame):
 
 def vis_air_pressure(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_air_pressure",       # Column to plot
@@ -325,7 +325,7 @@ def vis_air_pressure(df:pd.DataFrame):
 
 def vis_wind(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_wind",       # Column to plot
@@ -358,7 +358,7 @@ def vis_wind(df:pd.DataFrame):
 
 def vis_wind_gusts(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_wind_gusts",       # Column to plot
@@ -391,7 +391,7 @@ def vis_wind_gusts(df:pd.DataFrame):
 
 def vis_wind_direction(df:pd.DataFrame):
     # plot
-    with plt.rc_context({'text.color' : txt_color, 'axes.edgecolor':color, 
+    with plt.rc_context({'axes.labelcolor' = txt_color, 'text.color' : txt_color, 'axes.edgecolor':color, 
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df['real_wind_direction'].value_counts(normalize=True).plot(kind="pie",             
@@ -414,3 +414,4 @@ if __name__ == '__main__':
         data_visualisation(data)
     else:
         print("Not enough datapoints!")
+
