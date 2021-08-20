@@ -2,8 +2,10 @@ import time
 from datetime import datetime as dt
 from datetime import date
 import os
-#import collect
+import threading
+
 import Freiburg.collect_freiburg
+import server
 
 os.environ['MOZ_HEADLESS'] = '1'
 
@@ -33,6 +35,10 @@ def run():
         #wait(last_stamp)
         time.sleep(seconds_until_next_check)
 
+def start_server():
+    thread = threading.Thread(target=run)
+    thread.start()
+
 def create_backup(collector):
     global daily_backup, last_backup
 
@@ -50,4 +56,5 @@ def create_backup(collector):
 
 if __name__ == '__main__':
     print(f"\n- {dt.now()} bot now online")
+    server.start_server()
     run()

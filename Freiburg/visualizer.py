@@ -1,7 +1,5 @@
 import matplotlib.pyplot as plt
 import pandas as pd
-import numpy as np
-import text_to_image
 
 color = 'blue'
 bg_color = 'grey'
@@ -384,7 +382,6 @@ def vis_wind_direction(df:pd.DataFrame):
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df['real_wind_direction'].value_counts(normalize=True).plot(kind="pie",             
                                                     figsize=(5,5),
-                                                    color=color,
                                                     title='Windrichtung',
                                                     xlabel='Himmelsrichtungen',
                                                     ylabel='Prozentualer Anteil')

@@ -3,7 +3,8 @@ from flask import Flask, render_template, url_for
 
 import Freiburg.collect_freiburg as cf
 
-app = Flask(__name__)
+#app = Flask(__name__)
+app = Flask('')
 
 @app.route('/')
 @app.route('/home')

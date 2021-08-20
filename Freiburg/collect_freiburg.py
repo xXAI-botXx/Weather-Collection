@@ -76,8 +76,7 @@ class Collector(object):
 
     def create_backup(self):
         # create file name
-        path = os.getcwd()
-        files = os.listdir(path+"/Freiburg/backup")
+        files = os.listdir("Freiburg/backup")
         now = dt.now()
         now = f"{now.day}.{now.month}.{now.year}"
         name = f"{now}_backup_000"
@@ -91,7 +90,7 @@ class Collector(object):
             clone = "".join(f.readlines())
 
         # write clone as backup
-        with open(f"{path}/Freiburg/backup/{name}", "w") as f:
+        with open(f"Freiburg/backup/{name}", "w") as f:
             f.write(clone)
 
         self.write_log("bot created a backup")
@@ -109,7 +108,7 @@ class Collector(object):
         data = pd.read_csv('Freiburg/DATA/freiburg_real_weather_data.csv', sep=',')
         # visualize
         if data.shape[0] > 1:    # mindestends 2 Datenpunkte!
-            visualizer.data_visualisation(data)
+            Freiburg.visualizer.data_visualisation(data)
             self.write_log("bot visualized weather data attributes")
         else:
             print("Not enough datapoints!")
