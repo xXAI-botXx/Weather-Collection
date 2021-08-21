@@ -14,10 +14,10 @@ def home():
         if request.form['submit_button'] == 'Submit':
             cf.update_data_viz(request.form['color'], request.form['bg_color'])
             data = cf.get_collected_data()
-            return render_template('index.html', data=data, rows=len(data))
+            return render_template('index.html', data=data, rows=len(data)-2)
         else:
             data = cf.get_collected_data()
-            return render_template('index.html', data=data, rows=len(data))
+            return render_template('index.html', data=data, rows=len(data)-2)
     elif request.method == 'GET':
         data = cf.get_collected_data()
         return render_template('index.html', data=data, rows=len(data)-2) # last line and first line
