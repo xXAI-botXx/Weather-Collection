@@ -218,7 +218,7 @@ def vis_weather_state(df:pd.DataFrame):
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df['real_weather_state'].value_counts(normalize=True).plot(kind="bar",             
-                                                figsize=(4,4),
+                                                figsize=(4,6),
                                                 color=color,
                                                 title='Wetter Status',
                                                 xlabel='States',
@@ -306,7 +306,7 @@ def vis_air_pressure(df:pd.DataFrame):
                          'xtick.color':color, 'ytick.color':color, 
                          'figure.facecolor':bg_color, 'axes.facecolor':bg_color}):
         df.hist(column="real_air_pressure",       # Column to plot
-                figsize=(5,5),         # Plot size
+                figsize=(8,5),         # Plot size
         #       bins=4,                # Number of bins
         #       bins=[7,8,9,10,11],    # specify bins as list of boundaries (left most to right most) 
                 bins=range(int(df["real_air_pressure"].min())-5, int(df["real_air_pressure"].max())+5,1),    # specify bins by range (first, last excluded, steps)  
