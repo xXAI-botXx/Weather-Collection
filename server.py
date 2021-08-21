@@ -20,7 +20,7 @@ def home():
             return render_template('index.html', data=data, rows=len(data))
     elif request.method == 'GET':
         data = cf.get_collected_data()
-        return render_template('index.html', data=data, rows=len(data))
+        return render_template('index.html', data=data, rows=len(data))-2 # last line and first line
 
 @app.route('/visualization')
 def visualization():
