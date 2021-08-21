@@ -1,10 +1,11 @@
 import threading
-from flask import Flask, render_template, url_for
+from flask import Flask, render_template, url_for, request
 
 import Freiburg.collect_freiburg as cf
 
 #app = Flask(__name__)
 app = Flask('')
+#app = Flask(__name__, static_folder='.', root_path='/home/runner')
 
 @app.route('/')
 @app.route('/home')
