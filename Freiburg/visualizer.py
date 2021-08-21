@@ -5,6 +5,12 @@ txt_color = '#ffcc5c'
 color = '#ffcc5c'
 bg_color = '#230070'
 
+def set_color(c, bg_c):
+    global txt_color, color, bg_color
+    txt_color = c
+    color = c
+    bg_color = bg_c
+
 def data_visualisation(data:pd.DataFrame) -> None:
     # data preparation
     categorical_variables = {"date", "real_weather_state", "real_wind_direction"}

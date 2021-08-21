@@ -119,6 +119,31 @@ def get_collected_data() -> list:
         clone = "".join(f.readlines()).split("\n")
     return clone
 
+def update_data_viz(color:str, bg_color:str):
+    # check, if hex color
+    if is_hex_color(color) and is_hex_color(bg_color):
+        # update color
+        Freiburg.visualizer.set_color(color, bg_color)
+
+    data = pd.read_csv('Freiburg/DATA/freiburg_real_weather_data.csv', sep=',')
+    # visualize
+    if data.shape[0] > 1:    # mindestends 2 Datenpunkte!
+        Freiburg.visualizer.data_visualisation(data)
+    else:
+        print("Not enough datapoints!")
+
+def is_hex_color(color:str) -> bool:
+    if len(color) == 7:
+        if color.startswith("#"):
+            try:
+                int(color[1:], 16)
+                return True
+            except ValueError:
+                return False
+        else:
+            return False
+    else:
+        return False
     
 if __name__ == '__main__':
     collector = Collector()

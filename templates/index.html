@@ -25,6 +25,13 @@
             {% endfor %} -->
             <p id="data-title-1">Datenattribute visualisiert:</p>
             <p id="data-title-2">aktuelle Anzahl: {{rows}}</p>
+            <form method="post" action="/" id="color_input">
+                <label>Farbe:</label><br>
+                <input type="text" id="color" name="color" value="#ffcc5c"><br>
+                <label>Hintergrundfarbe:</label><br>
+                <input type="text" id="bg_color" name="bg_color" value="#230070"><br><br>
+                <input type="submit" value="Submit" name="submit_button">
+              </form>
             <img src="{{url_for('static', filename='vis_hour.png')}}"></img>
             <img src="{{url_for('static', filename='vis_minute.png')}}"></img>
             <img src="{{url_for('static', filename='vis_date.png')}}"></img>

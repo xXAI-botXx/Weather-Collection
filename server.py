@@ -7,11 +7,20 @@ import Freiburg.collect_freiburg as cf
 app = Flask('')
 #app = Flask(__name__, static_folder='.', root_path='/home/runner')
 
-@app.route('/')
-@app.route('/home')
+@app.route('/', methods=['GET', 'POST'])
+@app.route('/home', methods=['GET', 'POST'])
 def home():
-    data = cf.get_collected_data()
-    return render_template('index.html', data=data, rows=len(data))
+    if request.method == 'POST':
+        if request.form['submit_button'] == 'Submit':
+            cf.update_data_viz(request.form['color'], request.form['bg_color'])
+            data = cf.get_collected_data()
+            return render_template('index.html', data=data, rows=len(data))
+        else:
+            data = cf.get_collected_data()
+            return render_template('index.html', data=data, rows=len(data))
+    elif request.method == 'GET':
+        data = cf.get_collected_data()
+        return render_template('index.html', data=data, rows=len(data))
 
 @app.route('/visualization')
 def visualization():

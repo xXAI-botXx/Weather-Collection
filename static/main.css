@@ -62,6 +62,12 @@ a:hover {  /*auf überschrift fabänderung*/
 }
 
 /** Gesammelte Wetterdaten **/
+#color_input {
+	text-align: left;
+	position: left;
+	padding-left:10%;
+}
+
 #data {
 	text-align:center;
 	color: #023583;
