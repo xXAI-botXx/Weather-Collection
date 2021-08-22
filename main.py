@@ -5,7 +5,6 @@ import os
 import threading
 
 import Freiburg.collect_freiburg
-import server
 
 os.environ['MOZ_HEADLESS'] = '1'
 
