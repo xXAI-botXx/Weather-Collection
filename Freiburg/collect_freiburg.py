@@ -1,6 +1,8 @@
 import csv
 import os
 from datetime import datetime as dt
+import pandas as pd
+import Freiburg.visualizer
 
 from Freiburg.weather_bot import Weather_Bot
 
@@ -10,17 +12,15 @@ class Collector(object):
                    'real_weather_state', 'real_visibility', 'real_rainfall', 
                    'real_air_pressure', 'real_wind', 'real_wind_gusts', 'real_wind_direction']
 
-    PRED_FIELDS = []
-
     def __init__(self):
         self.bot = Weather_Bot()
         self.write_log("bot is now online")
    
     def run(self):
-       real_data, pred_data = self.bot.run()
+       real_data = self.bot.run()
        self.save_real(real_data)
-       #self.save_pred(pred_data)
        self.write_log("bot collected weather data")
+       #self.visualization()
 
     # entferne die letzte Zeile -> es soll nur eine letzte Zeile geben
     def save_real_alt(self, new_entry:dict):
@@ -44,15 +44,9 @@ class Collector(object):
             for key in Collector.REAL_FIELDS:
                 csv_file.write(f"{new_entry[key]}")
                 if key != 'real_wind_direction':
-                    csv_file.write(', ')
+                    csv_file.write(',')
             
             csv_file.write('\n')
-
-    def save_pred(self, new_entry:dict):
-        with open('Freiburg/DATA/freiburg_pred_weather_data.csv', 'a') as csv_file:  
-            writer = csv.DictWriter(csv_file, fieldnames=Collector.PRED_FIELDS)
-            #writer.writeheader()
-            writer.writerow(new_entry)
 
     def remove_last_line(self, path:str):
         with open(path, 'r') as f:
@@ -73,8 +67,7 @@ class Collector(object):
 
     def create_backup(self):
         # create file name
-        path = os.getcwd()
-        files = os.listdir(path+"/Freiburg/backup")
+        files = os.listdir("Freiburg/backup")
         now = dt.now()
         now = f"{now.day}.{now.month}.{now.year}"
         name = f"{now}_backup_000"
@@ -88,7 +81,7 @@ class Collector(object):
             clone = "".join(f.readlines())
 
         # write clone as backup
-        with open(f"{path}/Freiburg/backup/{name}", "w") as f:
+        with open(f"Freiburg/backup/{name}", "w") as f:
             f.write(clone)
 
         self.write_log("bot created a backup")
@@ -99,6 +92,49 @@ class Collector(object):
         with open('Freiburg/DATA/log.txt', 'a') as f:
             f.write(f"- {now}   {txt}\n\n")
 
+    def visualization(self):
+        # clear content of img dir -> or not...
+
+        # get data as pandas
+        data = pd.read_csv('Freiburg/DATA/freiburg_real_weather_data.csv', sep=',')
+        # visualize
+        if data.shape[0] > 1:    # mindestends 2 Datenpunkte!
+            Freiburg.visualizer.data_visualisation(data)
+            self.write_log("bot visualized weather data attributes")
+        else:
+            print("Not enough datapoints!")
+
+
+def get_collected_data() -> list:
+    with open('Freiburg/DATA/freiburg_real_weather_data.csv', 'r') as f:
+        clone = "".join(f.readlines()).split("\n")
+    return clone
+
+def update_data_viz(color:str, bg_color:str):
+    # check, if hex color
+    if is_hex_color(color) and is_hex_color(bg_color):
+        # update color
+        Freiburg.visualizer.set_color(color, bg_color)
+
+    data = pd.read_csv('Freiburg/DATA/freiburg_real_weather_data.csv', sep=',')
+    # visualize
+    if data.shape[0] > 1:    # mindestends 2 Datenpunkte!
+        Freiburg.visualizer.data_visualisation(data)
+    else:
+        print("Not enough datapoints!")
+
+def is_hex_color(color:str) -> bool:
+    if len(color) == 7:
+        if color.startswith("#"):
+            try:
+                int(color[1:], 16)
+                return True
+            except ValueError:
+                return False
+        else:
+            return False
+    else:
+        return False
     
 if __name__ == '__main__':
     collector = Collector()

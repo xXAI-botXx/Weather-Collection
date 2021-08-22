@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8"> <!-- ä,ö,ü,ß-->
+        <link rel="stylesheet" href="{{url_for('static', filename='main.css')}}"> <!-- verlinkung mit css datei-->
+        <title> Weather Analysis </title> <!--Anzeige im Tab,oben-->
+    </head>
+
+    <body>
+        <h1 id="title"> <a href="{{url_for('home')}}">Wheather Analysis</a> </h1>
+        <p id="undertitle">by Tobia Ippolito and Syon Kadkade</p>
+
+        <div id="menu-bar">
+            <a href="{{url_for('home')}}">Home</a>
+            <a href="{{url_for('visualization')}}">Visualisierungen</a>
+            <a href="{{url_for('features')}}">Features</a>
+            <a href="{{url_for('collection')}}" class="active">Datensammlung</a>
+            <a href="{{url_for('analyse')}}">Analyse</a>
+        </div>
+
+        <p>Dieser Teil der Website ist noch in der Entstehung.</p>
+
+        <div class="bottom-box">
+            <b><a class="up" href="#title"> Klicke hier, um nach oben zu gelangen </a></b></p>   
+            <b><p><a href="{{url_for('datenschutz')}}" class="info"> Datenschutz </a></p></b> 
+            <b><p><a href="{{url_for('impressum')}}" class="info"> Impressum </a></p></b>   </div>
+    </body>
+</html>
