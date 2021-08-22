@@ -1,15 +1,17 @@
-# Weather-Analysis
-
+# Weather-Analysis <br>
+<br>
+![GitHub top language](https://img.shields.io/github/languages/top/xXAI-botXx/Weather-Analysis?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/xXAI-botXx/Weather-Analysis?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/xXAI-botXx/Weather-Analysis?color=%23fcba03&style=for-the-badge)
+<br>
+<br>
 ### Grobe Beschreibung:
 Es werden Wetterdaten von Freiburg und Offenburg gesammelt.<br>
 Diese sollen später dann mit Machine Learning Algorithmus untersucht werden. <br>
-Um einen aktuellen stand in die Datensammlung zu gewährleisten, haben wir eine [Website](https://weather-analysis.xxaibotxx.repl.co/) geschrieben auf welcher man eine visuelle Repräsentation der gesammelten Daten erhält. <br>
-Später sollen die Website noch wachsen und mehr zu bieten haben.
 
 ___
 ### Tools:
-- An sich ist alles in Python programmiert, außer natürlich die Website. <br>
+- An sich ist alles in Python programmiert <br>
 - Für die Datensammlung haben wir Selenium verwendet um dann jede Stunde die aktuellen Messwerte einer Wetterstation abzufragen. <br>
-- Um unsere Website zu hosten, verwenden wir Flask.
-- Die Datenvisualisierung findet über Matplotlib statt
-- Der Code zum Sammeln und zum Hosten der Website läuft auf [Replit](https://replit.com/)
+- Die Datenvisualisierung findet über Matplotlib und Tableau statt
+- Der Code zur Datensammelung läuft auf [Replit](https://replit.com/)
