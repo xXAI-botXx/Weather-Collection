@@ -56,5 +56,5 @@ def create_backup(collector):
 
 if __name__ == '__main__':
     print(f"\n- {dt.now()} bot now online")
-    server.start_server()
+    #server.start_server()
     run()
