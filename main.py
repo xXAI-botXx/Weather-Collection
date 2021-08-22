@@ -17,7 +17,7 @@ last_backup = None
 def wait(last_stamp):
     time_diff = dt.now() - last_stamp
     time_diff = time_diff.total_seconds()
-    waiting_time = max(0, seconds_until_next_check-time_diff)
+    waiting_time = min(seconds_until_next_check, seconds_until_next_check-time_diff)
     time.sleep(waiting_time)
 
 def run():
@@ -32,8 +32,8 @@ def run():
         freiburg_collector.run()
         print(f"\n- {dt.now()} collected data")
         create_backup(freiburg_collector)
-        #wait(last_stamp)
-        time.sleep(seconds_until_next_check)
+        wait(last_stamp)
+        #time.sleep(seconds_until_next_check)
 
 def start_server():
     thread = threading.Thread(target=run)

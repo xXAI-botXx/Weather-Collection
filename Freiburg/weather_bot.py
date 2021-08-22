@@ -22,16 +22,11 @@ class Weather_Bot(object):
         self.WAIT_TIME_MIN = 2
         self.WAIT_TIME_MAX = 5
         self.TIMEOUT = 30
-        #self.REAL_DATA_URL = 'https://wetterstationen.meteomedia.de/?map=Baden-Wuerttemberg&station=108030'
         self.REAL_DATA_URL = 'https://www.wetterdienst.de/Deutschlandwetter/Freiburg_im_Breisgau/Aktuell/108030'
-        self.PREDICTED_DATA_URL = 'https://www.daswetter.com/wetter_Freiburg+im+Breisgau-Europa-Deutschland-Baden+Wurttemberg--1-26570.html'
 
-    def run(self) -> tuple:
-        # real data
+    def run(self) -> dict:
         self.collect_real_data()
-        # predicted data
-        #self.collect_predicted_data()
-        return (self.real_data, None)
+        return self.real_data
 
     def wait(self, element, mode) -> bool:
         try:
@@ -252,69 +247,10 @@ class Weather_Bot(object):
         except:
             return -999
 
-    # ----> Predicted Data <----
-    # - hour (int)
-    # - Temperature (celsius)
-    # - Feeling-Temperature (celsius)
-    # - UV-Index (int)
-    # - Humidity (percentage)
-    # - Cloudiness (percentage)
-    # - Wind (km/h)
-    # - Wind-Busts (int)
-    # - Air-Pressure (hPa)
-    # - Wind-Direction (str)
-    # - Visibility (int)
-    # - Dew-Point (int)
-    # - Mist (bool)
-    # - Snowfall-Line (meters)
-
-    # 9 td in einer row -> zwischendrin noch 2 td => also 11 td in einer row
-    def collect_predicted_data(self):
-        self.pred_data = dict()
-        self.call_predicted_data_website()
-        self.pred_data['pred_hour'] = self.get_pred_hour()
-        self.open_box()
-        # ...
-        #self.driver.close()
-
-    def call_predicted_data_website(self):
-        #self.driver = webdriver.Edge('Freiburg/Driver/msedgedriver.exe')
-        #self.driver = webdriver.Firefox()
-        self.driver = webdriver.Chrome("Freiburg/Driver/chromedriver.exe")
-        self.driver.get(self.PREDICTED_DATA_URL)
-        time.sleep(random.randint(self.WAIT_TIME_MIN, self.WAIT_TIME_MAX))
-        # cookies
-        elem = self.driver.find_element_by_id("sendOpGdpr")
-        elem.click()
-
-    def get_pred_hour(self) -> int:
-        try:
-            #elements = self.driver.find_elements_by_xpath("//span[@class='hora']")
-            elements = self.driver.find_elements_by_xpath("//td")
-            self.line = -2
-
-            for elem in elements:
-                self.line += 1
-                if ":" in elem.text:
-                    if int(elem.text.split(":")[0]) == self.real_data['hour']:
-                        return int(elem.text.split(":")[0])
-
-            # if not found -> you have to found a higher or lower one and click on it
-            return -999
-        except:
-            return -999
-
-    def open_box(self):
-        element = self.driver.find_element_by_xpath(f"//span[@class='icono-mas detalle td{self.real_data['hour']}']")
-        element.click()
-        #print(self.line//11)
-
 
 if __name__ == '__main__':
     bot = Weather_Bot()
     bot.collect_real_data()
-    bot.collect_predicted_data()
-    print(bot.line)
     #bot.collect_real_data()
     #d = bot.real_data
     #for key, value in d.items():
