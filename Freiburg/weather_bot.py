@@ -16,7 +16,7 @@ from datetime import datetime as dt
 class Weather_Bot(object):
 
     mode = Enum('mode', 'ID NAME XPATH')
-    RUN_ON_REPLIT = False
+    RUN_ON_REPLIT = True
 
     def __init__(self):
         self.WAIT_TIME_MIN = 2
@@ -190,7 +190,7 @@ class Weather_Bot(object):
             elements = self.driver.find_elements_by_xpath("//span[@style='line-height: 18px;']")
             for elem in elements:
                 if elem.text.startswith("Sichtweite:"):
-                    return int(elem.text.split(" ")[1])
+                    return float(elem.text.split(" ")[1])
             return -999
         except:
             return -999
@@ -198,7 +198,7 @@ class Weather_Bot(object):
     def get_real_rainfall(self) -> str:
         try:
             elem = self.driver.find_element_by_id("nieders_1")
-            return int(elem.text.split(" ")[0])
+            return float(elem.text.split(" ")[0])
         except:
             return -999
 
