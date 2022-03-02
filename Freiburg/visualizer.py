@@ -5,6 +5,9 @@ txt_color = '#ffcc5c'
 color = '#ffcc5c'
 bg_color = '#230070'
 
+
+path = "Freiburg/Visualizations"
+
 def set_color(c, bg_c):
     global txt_color, color, bg_color
     txt_color = c
@@ -57,7 +60,6 @@ def vis_hour(df:pd.DataFrame):
         plt.xlim((0, 24))
 
         # save plot
-        path = "static"
         filename = "vis_hour.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -89,7 +91,6 @@ def vis_minute(df:pd.DataFrame):
         plt.xlim((0, 60))
 
         # save plot
-        path = "static"
         filename = "vis_minute.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -109,7 +110,6 @@ def vis_date(df:pd.DataFrame):
                                                 ylabel='Gesammelt')  
 
         # save plot
-        path = "static"
         filename = "vis_date.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -143,7 +143,6 @@ def vis_temperature(df:pd.DataFrame):
         plt.xlim(df["real_temperature"].min()-5, df["real_temperature"].max()+5)             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_temperature.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -177,7 +176,6 @@ def vis_dew_point(df:pd.DataFrame):
         plt.xlim(df["real_dew_point"].min()-5, df["real_dew_point"].max()+5)             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_dew_point.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -211,7 +209,6 @@ def vis_humidity(df:pd.DataFrame):
         plt.xlim(0, 100)             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_humidity.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -231,7 +228,6 @@ def vis_weather_state(df:pd.DataFrame):
                                                 ylabel='Anteil (in %)')
 
         # save plot
-        path = "static"
         filename = "vis_weather_state.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -265,7 +261,6 @@ def vis_visibility(df:pd.DataFrame):
         plt.xlim(df["real_visibility"].min()-5, df["real_visibility"].max()+5)             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_visibility.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -299,7 +294,6 @@ def vis_rainfall(df:pd.DataFrame):
         plt.xlim(df["real_rainfall"].min(), df["real_rainfall"].max())             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_rainfall.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -333,7 +327,6 @@ def vis_air_pressure(df:pd.DataFrame):
         plt.xlim(df["real_air_pressure"].min(), df["real_air_pressure"].max())             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_air_pressure.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -367,7 +360,6 @@ def vis_wind(df:pd.DataFrame):
         plt.xlim(df["real_wind"].min(), df["real_wind"].max())             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_wind.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -401,7 +393,6 @@ def vis_wind_gusts(df:pd.DataFrame):
         plt.xlim(df["real_wind_gusts"].min(), df["real_wind_gusts"].max())             # optionally limit or extend the x-Achses
 
         # save plot
-        path = "static"
         filename = "vis_wind_gusts.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)
@@ -420,7 +411,6 @@ def vis_wind_direction(df:pd.DataFrame):
                                                     ylabel='Prozentualer Anteil')
 
         # save plot
-        path = "static"
         filename = "vis_wind_direction.png"
         file = path+"/"+filename
         plt.savefig(file, transparent=False)

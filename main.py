@@ -12,35 +12,43 @@ os.environ['MOZ_HEADLESS'] = '1'
 seconds_until_next_check = 60 * 60
 daily_backup = False
 last_backup = None
+last_stamp = None
+
 
 
 def wait(last_stamp):
-	time_diff = dt.now() - last_stamp
-	time_diff = time_diff.total_seconds()
-	waiting_time = min(seconds_until_next_check,
-	                   seconds_until_next_check - time_diff)
-	time.sleep(waiting_time)
+    time_diff = dt.now() - last_stamp
+    time_diff = time_diff.total_seconds()
+    waiting_time = min(seconds_until_next_check,
+                       seconds_until_next_check - time_diff)
+    time.sleep(waiting_time)
 
 
 def run():
-	# init
-	should_running = True
-	#offenburg_collector = collect.Collector()
-	freiburg_collector = Freiburg.collect_freiburg.Collector()
-	# run
-	while should_running:
-		last_stamp = dt.now()
-		#offenburg_collector.run()
-		freiburg_collector.run()
-		print(f"\n- {dt.now()} collected data")
-		create_backup(freiburg_collector)
-		#wait(last_stamp)
-		time.sleep(seconds_until_next_check)
+    global last_stamp, seconds_until_next_check
+    # init
+    should_running = True
+    #offenburg_collector = collect.Collector()
+    freiburg_collector = Freiburg.collect_freiburg.Collector()
+    # run
+    while should_running:
+        if last_stamp == None or (dt.now() - last_stamp).total_seconds(
+        ) >= seconds_until_next_check:
+            last_stamp = dt.now()
+            #offenburg_collector.run()
+            freiburg_collector.run()
+            print(f"\n- {dt.now()} collected data")
+            create_backup(freiburg_collector)
+            #wait(last_stamp)
+            #time.sleep(seconds_until_next_check)
+
+            time.sleep(30)
 
 
 def start_server():
 	thread = threading.Thread(target=run)
 	thread.start()
+
 
 
 def create_backup(collector):
