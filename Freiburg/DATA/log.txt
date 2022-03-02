@@ -86,3 +86,1641 @@
 
 - 2021-08-20 10:28:28.650118   bot is now online
 
+- 2021-08-22 09:26:46.882270   bot is now online
+
+- 2021-08-22 09:27:59.405478   bot is now online
+
+- 2021-08-22 09:28:27.277156   bot collected weather data
+
+- 2021-08-22 09:28:27.277596   bot created a backup
+
+- 2021-09-02 00:42:39.779924   bot is now online
+
+- 2021-09-02 00:42:56.817254   bot collected weather data
+
+- 2021-09-02 00:42:56.817493   bot created a backup
+
+- 2021-09-02 01:42:55.307384   bot collected weather data
+
+- 2021-09-02 02:42:56.223354   bot collected weather data
+
+- 2021-09-02 03:42:54.350468   bot collected weather data
+
+- 2021-09-02 04:42:56.615305   bot collected weather data
+
+- 2021-09-02 05:42:55.393237   bot collected weather data
+
+- 2021-09-02 06:42:54.399790   bot collected weather data
+
+- 2021-09-03 06:18:28.707063   bot is now online
+
+- 2021-09-03 06:18:54.491816   bot collected weather data
+
+- 2021-09-03 06:18:54.492249   bot created a backup
+
+- 2021-09-03 07:18:49.821797   bot collected weather data
+
+- 2021-09-03 08:18:53.683583   bot collected weather data
+
+- 2021-09-03 09:18:47.221436   bot collected weather data
+
+- 2021-09-03 10:18:48.580052   bot collected weather data
+
+- 2021-09-03 11:18:49.963168   bot collected weather data
+
+- 2021-09-03 12:18:52.110693   bot collected weather data
+
+- 2021-09-03 13:18:56.978290   bot collected weather data
+
+- 2021-09-03 14:18:54.249212   bot collected weather data
+
+- 2021-09-03 15:19:00.957221   bot collected weather data
+
+- 2021-09-03 16:19:02.332192   bot collected weather data
+
+- 2021-09-03 17:18:52.562236   bot collected weather data
+
+- 2021-09-03 18:18:54.003015   bot collected weather data
+
+- 2021-09-03 19:19:00.195261   bot collected weather data
+
+- 2021-09-09 02:46:05.494949   bot is now online
+
+- 2021-09-09 02:46:24.663316   bot collected weather data
+
+- 2021-09-09 02:46:24.663739   bot created a backup
+
+- 2021-09-09 03:46:27.437079   bot collected weather data
+
+- 2021-09-09 04:46:24.214592   bot collected weather data
+
+- 2021-09-09 05:46:24.588453   bot collected weather data
+
+- 2021-09-09 06:46:32.226293   bot collected weather data
+
+- 2021-09-19 21:25:59.334389   bot is now online
+
+- 2021-09-19 21:26:18.354723   bot collected weather data
+
+- 2021-09-19 21:26:18.355079   bot created a backup
+
+- 2021-09-19 22:26:15.486617   bot collected weather data
+
+- 2021-09-19 23:26:16.657162   bot collected weather data
+
+- 2021-09-20 00:26:15.934574   bot collected weather data
+
+- 2021-09-20 00:26:15.935173   bot created a backup
+
+- 2021-09-20 01:26:17.429249   bot collected weather data
+
+- 2021-09-20 02:26:16.800538   bot collected weather data
+
+- 2021-09-20 03:26:15.662949   bot collected weather data
+
+- 2021-09-20 04:26:15.532213   bot collected weather data
+
+- 2021-09-20 05:26:15.288606   bot collected weather data
+
+- 2021-09-20 05:32:23.239865   bot is now online
+
+- 2021-09-20 05:32:36.292045   bot collected weather data
+
+- 2021-09-20 05:32:36.292960   bot created a backup
+
+- 2021-09-20 05:38:48.709226   bot is now online
+
+- 2021-09-20 05:39:05.479420   bot collected weather data
+
+- 2021-09-20 05:39:05.480942   bot created a backup
+
+- 2021-09-20 05:42:21.272554   bot is now online
+
+- 2021-09-20 05:42:38.011479   bot collected weather data
+
+- 2021-09-20 05:42:38.012024   bot created a backup
+
+- 2021-09-20 06:42:56.239786   bot collected weather data
+
+- 2021-09-20 07:43:12.306820   bot collected weather data
+
+- 2021-09-20 08:43:27.460001   bot collected weather data
+
+- 2021-09-26 12:53:55.053422   bot is now online
+
+- 2021-09-26 12:54:10.615414   bot collected weather data
+
+- 2021-09-26 12:54:10.615748   bot created a backup
+
+- 2021-09-26 13:54:29.384691   bot collected weather data
+
+- 2021-09-26 14:54:45.220245   bot collected weather data
+
+- 2021-09-26 15:55:01.424957   bot collected weather data
+
+- 2021-09-26 16:12:05.253570   bot is now online
+
+- 2021-09-26 16:14:21.363425   bot is now online
+
+- 2021-09-26 16:14:38.468891   bot collected weather data
+
+- 2021-09-26 16:14:38.469319   bot created a backup
+
+- 2021-09-26 17:14:40.183042   bot collected weather data
+
+- 2021-11-03 18:25:33.878304   bot is now online
+
+- 2021-11-03 21:35:05.854488   bot is now online
+
+- 2021-11-04 03:38:27.400496   bot is now online
+
+- 2021-11-04 04:33:36.436053   bot is now online
+
+- 2021-11-04 07:51:20.939710   bot is now online
+
+- 2021-11-04 19:24:45.403826   bot is now online
+
+- 2021-11-04 20:02:56.400004   bot is now online
+
+- 2021-11-04 23:44:49.710036   bot is now online
+
+- 2021-11-05 02:51:38.290856   bot is now online
+
+- 2021-11-05 03:50:41.050409   bot is now online
+
+- 2021-11-05 06:09:07.611547   bot is now online
+
+- 2021-11-05 06:09:26.377277   bot collected weather data
+
+- 2021-11-05 06:09:26.377823   bot created a backup
+
+- 2021-11-05 10:51:06.460766   bot is now online
+
+- 2021-11-05 14:00:39.576212   bot is now online
+
+- 2021-11-05 16:04:52.614376   bot is now online
+
+- 2021-11-05 18:56:57.400673   bot is now online
+
+- 2021-11-05 19:47:11.262483   bot is now online
+
+- 2021-11-05 19:55:42.738110   bot is now online
+
+- 2021-11-05 22:45:32.001043   bot is now online
+
+- 2021-11-05 22:45:52.981246   bot collected weather data
+
+- 2021-11-05 22:45:52.981683   bot created a backup
+
+- 2021-11-06 00:42:04.798814   bot is now online
+
+- 2021-11-06 01:44:14.982280   bot is now online
+
+- 2021-11-06 03:44:04.058753   bot is now online
+
+- 2021-11-06 05:08:25.911544   bot is now online
+
+- 2021-11-06 06:51:17.860913   bot is now online
+
+- 2021-11-06 10:52:05.644235   bot is now online
+
+- 2021-11-06 19:32:47.276802   bot is now online
+
+- 2021-11-06 21:35:14.075287   bot is now online
+
+- 2021-11-06 23:03:03.755845   bot is now online
+
+- 2021-11-07 02:04:39.745916   bot is now online
+
+- 2021-11-07 05:48:48.806501   bot is now online
+
+- 2021-11-07 09:19:09.562312   bot is now online
+
+- 2021-11-07 17:04:18.464292   bot is now online
+
+- 2021-11-07 17:04:40.301867   bot collected weather data
+
+- 2021-11-07 17:04:40.302338   bot created a backup
+
+- 2021-11-07 17:12:32.102946   bot is now online
+
+- 2021-11-07 20:28:10.048518   bot is now online
+
+- 2021-11-07 20:28:27.418908   bot collected weather data
+
+- 2021-11-07 20:28:27.419362   bot created a backup
+
+- 2021-11-07 21:53:52.687082   bot is now online
+
+- 2021-11-07 22:46:47.193137   bot is now online
+
+- 2021-11-08 03:38:57.631315   bot is now online
+
+- 2021-11-08 06:46:50.222993   bot is now online
+
+- 2021-11-08 09:49:32.343056   bot is now online
+
+- 2021-11-08 17:21:19.614582   bot is now online
+
+- 2021-11-08 17:21:35.720584   bot collected weather data
+
+- 2021-11-08 17:21:35.721118   bot created a backup
+
+- 2021-11-08 20:01:27.958611   bot is now online
+
+- 2021-11-08 20:28:28.314455   bot is now online
+
+- 2021-11-08 22:13:31.687957   bot is now online
+
+- 2021-11-08 23:53:48.327205   bot is now online
+
+- 2021-11-09 02:59:29.088532   bot is now online
+
+- 2021-11-09 10:03:47.275640   bot is now online
+
+- 2021-11-09 14:30:27.497238   bot is now online
+
+- 2021-11-09 14:30:47.944312   bot collected weather data
+
+- 2021-11-09 14:30:47.944983   bot created a backup
+
+- 2021-11-09 19:44:03.992939   bot is now online
+
+- 2021-11-09 21:52:55.144762   bot is now online
+
+- 2021-11-09 21:53:13.783541   bot collected weather data
+
+- 2021-11-09 21:53:13.784050   bot created a backup
+
+- 2021-11-10 01:01:04.833944   bot is now online
+
+- 2021-11-10 04:02:39.718890   bot is now online
+
+- 2021-11-10 07:03:59.297123   bot is now online
+
+- 2021-11-10 10:55:52.744914   bot is now online
+
+- 2021-11-10 14:37:24.262830   bot is now online
+
+- 2021-11-10 17:29:35.529404   bot is now online
+
+- 2021-11-10 18:07:07.491338   bot is now online
+
+- 2021-11-10 18:50:31.193750   bot is now online
+
+- 2021-11-10 21:12:07.496030   bot is now online
+
+- 2021-11-10 21:12:31.739122   bot collected weather data
+
+- 2021-11-10 21:12:31.739513   bot created a backup
+
+- 2021-11-11 00:15:04.185057   bot is now online
+
+- 2021-11-11 03:22:51.356976   bot is now online
+
+- 2021-11-11 06:27:18.080547   bot is now online
+
+- 2021-11-11 10:34:00.063199   bot is now online
+
+- 2021-11-11 18:57:19.025949   bot is now online
+
+- 2021-11-11 19:11:39.125178   bot is now online
+
+- 2021-11-11 19:11:59.176497   bot collected weather data
+
+- 2021-11-11 19:11:59.177043   bot created a backup
+
+- 2021-11-12 19:08:19.887293   bot is now online
+
+- 2021-11-12 19:08:40.586264   bot collected weather data
+
+- 2021-11-12 19:08:40.586785   bot created a backup
+
+- 2021-11-12 20:50:17.584877   bot is now online
+
+- 2021-11-13 00:31:51.967729   bot is now online
+
+- 2021-11-13 00:32:10.730268   bot collected weather data
+
+- 2021-11-13 00:32:10.730652   bot created a backup
+
+- 2021-11-13 00:46:54.521740   bot is now online
+
+- 2021-11-13 00:47:11.890694   bot collected weather data
+
+- 2021-11-13 00:47:11.891138   bot created a backup
+
+- 2021-11-13 03:20:46.586433   bot is now online
+
+- 2021-11-13 04:45:30.309631   bot is now online
+
+- 2021-11-13 04:45:49.940469   bot collected weather data
+
+- 2021-11-13 04:45:49.940915   bot created a backup
+
+- 2021-11-14 01:56:02.387746   bot is now online
+
+- 2021-11-14 03:58:15.817072   bot is now online
+
+- 2021-11-14 03:58:33.223301   bot collected weather data
+
+- 2021-11-14 03:58:33.223785   bot created a backup
+
+- 2021-11-15 01:28:56.865877   bot is now online
+
+- 2021-11-15 04:09:17.845205   bot is now online
+
+- 2021-11-15 04:09:37.307077   bot collected weather data
+
+- 2021-11-15 04:09:37.307479   bot created a backup
+
+- 2021-11-16 02:32:57.564742   bot is now online
+
+- 2021-11-16 02:33:16.219288   bot collected weather data
+
+- 2021-11-16 02:33:16.219690   bot created a backup
+
+- 2021-11-16 05:39:08.718445   bot is now online
+
+- 2021-11-16 05:39:28.909597   bot collected weather data
+
+- 2021-11-16 05:39:28.910246   bot created a backup
+
+- 2021-11-16 21:04:09.982210   bot is now online
+
+- 2021-11-16 21:04:29.125996   bot collected weather data
+
+- 2021-11-16 21:04:29.126500   bot created a backup
+
+- 2021-11-17 02:01:10.044901   bot is now online
+
+- 2021-11-17 02:51:32.792425   bot is now online
+
+- 2021-11-17 02:51:50.037255   bot collected weather data
+
+- 2021-11-17 02:51:50.037688   bot created a backup
+
+- 2021-11-18 02:49:47.039774   bot is now online
+
+- 2021-11-18 03:43:58.771885   bot is now online
+
+- 2021-11-18 03:44:19.769917   bot collected weather data
+
+- 2021-11-18 03:44:19.770333   bot created a backup
+
+- 2021-11-19 01:38:05.663551   bot is now online
+
+- 2021-11-19 01:38:23.246771   bot collected weather data
+
+- 2021-11-19 01:38:23.247253   bot created a backup
+
+- 2021-11-19 02:58:09.506402   bot is now online
+
+- 2021-11-19 03:38:08.110485   bot is now online
+
+- 2021-11-19 03:38:22.896064   bot collected weather data
+
+- 2021-11-19 03:38:22.896491   bot created a backup
+
+- 2021-11-19 03:47:56.916762   bot is now online
+
+- 2021-11-20 01:06:56.785420   bot is now online
+
+- 2021-11-20 01:39:42.773292   bot is now online
+
+- 2021-11-20 01:40:05.679267   bot collected weather data
+
+- 2021-11-20 01:40:05.679638   bot created a backup
+
+- 2021-11-20 02:05:35.646607   bot is now online
+
+- 2021-11-20 02:05:49.011175   bot collected weather data
+
+- 2021-11-20 02:05:49.011782   bot created a backup
+
+- 2021-11-20 02:22:50.293387   bot is now online
+
+- 2021-11-20 02:23:08.510521   bot collected weather data
+
+- 2021-11-20 02:23:08.511004   bot created a backup
+
+- 2021-11-21 01:51:55.691994   bot is now online
+
+- 2021-11-21 01:52:13.252483   bot collected weather data
+
+- 2021-11-21 01:52:13.252897   bot created a backup
+
+- 2021-11-21 02:59:12.360905   bot is now online
+
+- 2021-11-21 02:59:32.434656   bot collected weather data
+
+- 2021-11-21 02:59:32.435174   bot created a backup
+
+- 2021-11-21 03:53:37.056544   bot is now online
+
+- 2021-11-21 08:26:36.600644   bot is now online
+
+- 2021-11-21 08:26:58.136965   bot collected weather data
+
+- 2021-11-21 08:26:58.137335   bot created a backup
+
+- 2021-11-22 04:19:14.623765   bot is now online
+
+- 2021-11-22 05:45:52.356977   bot is now online
+
+- 2021-11-22 05:46:12.342586   bot collected weather data
+
+- 2021-11-22 05:46:12.343237   bot created a backup
+
+- 2021-11-23 01:26:36.528651   bot is now online
+
+- 2021-11-23 01:26:58.161825   bot collected weather data
+
+- 2021-11-23 01:26:58.162335   bot created a backup
+
+- 2021-11-23 03:45:33.043302   bot is now online
+
+- 2021-11-23 03:45:50.357815   bot collected weather data
+
+- 2021-11-23 03:45:50.358260   bot created a backup
+
+- 2021-11-23 19:06:43.645804   bot is now online
+
+- 2021-11-23 19:07:01.930978   bot collected weather data
+
+- 2021-11-23 19:07:01.931532   bot created a backup
+
+- 2021-11-24 02:08:49.454665   bot is now online
+
+- 2021-11-24 14:39:12.745361   bot is now online
+
+- 2021-11-24 14:39:33.103915   bot collected weather data
+
+- 2021-11-24 14:39:33.104324   bot created a backup
+
+- 2021-11-25 04:25:51.447399   bot is now online
+
+- 2021-11-25 04:26:08.683346   bot collected weather data
+
+- 2021-11-25 04:26:08.683789   bot created a backup
+
+- 2021-11-26 03:43:02.968296   bot is now online
+
+- 2021-11-26 03:43:24.059707   bot collected weather data
+
+- 2021-11-26 03:43:24.060192   bot created a backup
+
+- 2021-11-26 04:25:35.006095   bot is now online
+
+- 2021-11-26 04:25:52.133798   bot collected weather data
+
+- 2021-11-26 04:25:52.134328   bot created a backup
+
+- 2021-11-26 21:42:15.194128   bot is now online
+
+- 2021-11-26 21:42:34.848509   bot collected weather data
+
+- 2021-11-26 21:42:34.848994   bot created a backup
+
+- 2021-11-27 03:13:40.699782   bot is now online
+
+- 2021-11-27 03:14:01.680149   bot collected weather data
+
+- 2021-11-27 03:14:01.680884   bot created a backup
+
+- 2021-11-28 02:21:35.469798   bot is now online
+
+- 2021-11-28 02:21:58.732793   bot collected weather data
+
+- 2021-11-28 02:21:58.733291   bot created a backup
+
+- 2021-11-29 01:05:34.995847   bot is now online
+
+- 2021-11-29 02:58:56.939291   bot is now online
+
+- 2021-11-29 02:59:10.962689   bot collected weather data
+
+- 2021-11-29 02:59:10.963101   bot created a backup
+
+- 2021-11-29 22:10:03.903475   bot is now online
+
+- 2021-11-29 22:10:19.898056   bot collected weather data
+
+- 2021-11-29 22:10:19.898451   bot created a backup
+
+- 2021-11-30 20:15:25.194103   bot is now online
+
+- 2021-11-30 20:15:42.467138   bot collected weather data
+
+- 2021-11-30 20:15:42.467672   bot created a backup
+
+- 2021-12-01 19:11:49.912027   bot is now online
+
+- 2021-12-01 19:12:15.244972   bot collected weather data
+
+- 2021-12-01 19:12:15.245431   bot created a backup
+
+- 2021-12-01 22:16:42.531564   bot is now online
+
+- 2021-12-01 22:17:01.427730   bot collected weather data
+
+- 2021-12-01 22:17:01.428174   bot created a backup
+
+- 2021-12-02 17:34:37.416450   bot is now online
+
+- 2021-12-02 17:34:58.200034   bot collected weather data
+
+- 2021-12-02 17:34:58.200573   bot created a backup
+
+- 2021-12-03 00:50:36.263027   bot is now online
+
+- 2021-12-03 00:50:54.960315   bot collected weather data
+
+- 2021-12-03 00:50:54.960711   bot created a backup
+
+- 2021-12-03 19:55:02.773300   bot is now online
+
+- 2021-12-03 19:55:24.964108   bot collected weather data
+
+- 2021-12-03 19:55:24.964670   bot created a backup
+
+- 2021-12-04 01:08:18.062400   bot is now online
+
+- 2021-12-04 01:08:36.892193   bot collected weather data
+
+- 2021-12-04 01:08:36.892626   bot created a backup
+
+- 2021-12-05 00:56:52.651959   bot is now online
+
+- 2021-12-05 00:57:12.997068   bot collected weather data
+
+- 2021-12-05 00:57:12.997652   bot created a backup
+
+- 2021-12-05 20:18:35.028880   bot is now online
+
+- 2021-12-05 20:18:56.751871   bot collected weather data
+
+- 2021-12-05 20:18:56.752359   bot created a backup
+
+- 2021-12-06 14:54:59.149988   bot is now online
+
+- 2021-12-06 14:55:20.960535   bot collected weather data
+
+- 2021-12-06 14:55:20.961007   bot created a backup
+
+- 2021-12-06 20:33:47.937869   bot is now online
+
+- 2021-12-06 20:34:08.694345   bot collected weather data
+
+- 2021-12-06 20:34:08.694811   bot created a backup
+
+- 2021-12-07 00:37:58.753983   bot is now online
+
+- 2021-12-07 00:38:18.067326   bot collected weather data
+
+- 2021-12-07 00:38:18.067837   bot created a backup
+
+- 2021-12-07 06:45:04.775862   bot is now online
+
+- 2021-12-07 06:45:23.481824   bot collected weather data
+
+- 2021-12-07 06:45:23.482289   bot created a backup
+
+- 2021-12-08 04:18:26.746311   bot is now online
+
+- 2021-12-08 04:18:46.390932   bot collected weather data
+
+- 2021-12-08 04:18:46.391504   bot created a backup
+
+- 2021-12-08 06:46:53.279503   bot is now online
+
+- 2021-12-08 06:47:15.500016   bot collected weather data
+
+- 2021-12-08 06:47:15.500622   bot created a backup
+
+- 2021-12-08 07:47:09.192777   bot collected weather data
+
+- 2021-12-08 08:47:10.516955   bot collected weather data
+
+- 2021-12-08 09:47:10.131637   bot collected weather data
+
+- 2021-12-08 10:47:09.610091   bot collected weather data
+
+- 2021-12-08 11:47:11.435066   bot collected weather data
+
+- 2021-12-08 12:47:07.772707   bot collected weather data
+
+- 2021-12-08 13:47:07.805247   bot collected weather data
+
+- 2021-12-08 14:47:08.033745   bot collected weather data
+
+- 2021-12-08 15:47:10.062585   bot collected weather data
+
+- 2021-12-08 16:47:10.825164   bot collected weather data
+
+- 2021-12-08 17:47:11.373420   bot collected weather data
+
+- 2021-12-08 18:47:10.150449   bot collected weather data
+
+- 2021-12-08 19:47:09.705852   bot collected weather data
+
+- 2021-12-08 20:47:10.313369   bot collected weather data
+
+- 2021-12-08 21:47:13.169903   bot collected weather data
+
+- 2021-12-08 22:47:13.106771   bot collected weather data
+
+- 2021-12-08 23:47:10.571185   bot collected weather data
+
+- 2021-12-09 00:47:12.331647   bot collected weather data
+
+- 2021-12-09 00:47:12.332311   bot created a backup
+
+- 2021-12-09 01:01:07.045247   bot is now online
+
+- 2021-12-09 01:01:27.330122   bot collected weather data
+
+- 2021-12-09 01:01:27.330743   bot created a backup
+
+- 2021-12-09 18:55:58.556017   bot is now online
+
+- 2021-12-09 18:56:12.541522   bot collected weather data
+
+- 2021-12-09 18:56:12.541994   bot created a backup
+
+- 2021-12-09 21:29:09.680152   bot is now online
+
+- 2021-12-09 22:37:17.640417   bot is now online
+
+- 2021-12-09 22:37:36.141931   bot collected weather data
+
+- 2021-12-09 22:37:36.142397   bot created a backup
+
+- 2021-12-10 22:17:09.977032   bot is now online
+
+- 2021-12-10 22:17:27.949162   bot collected weather data
+
+- 2021-12-10 22:17:27.949692   bot created a backup
+
+- 2021-12-11 20:46:00.218342   bot is now online
+
+- 2021-12-11 20:46:18.925371   bot collected weather data
+
+- 2021-12-11 20:46:18.925818   bot created a backup
+
+- 2021-12-12 19:54:01.251062   bot is now online
+
+- 2021-12-12 20:30:48.962222   bot is now online
+
+- 2021-12-12 20:31:05.470301   bot collected weather data
+
+- 2021-12-12 20:31:05.470889   bot created a backup
+
+- 2021-12-12 23:17:06.209745   bot is now online
+
+- 2021-12-12 23:17:28.186049   bot collected weather data
+
+- 2021-12-12 23:17:28.186539   bot created a backup
+
+- 2021-12-13 19:16:12.964112   bot is now online
+
+- 2021-12-13 19:16:30.807537   bot collected weather data
+
+- 2021-12-13 19:16:30.808094   bot created a backup
+
+- 2021-12-13 23:14:48.707052   bot is now online
+
+- 2021-12-13 23:15:06.130039   bot collected weather data
+
+- 2021-12-13 23:15:06.130528   bot created a backup
+
+- 2021-12-14 22:41:25.130318   bot is now online
+
+- 2021-12-14 22:41:48.005490   bot collected weather data
+
+- 2021-12-14 22:41:48.006080   bot created a backup
+
+- 2021-12-15 19:17:03.459220   bot is now online
+
+- 2021-12-15 19:17:19.478616   bot collected weather data
+
+- 2021-12-15 19:17:19.479132   bot created a backup
+
+- 2021-12-15 22:27:30.159692   bot is now online
+
+- 2021-12-15 22:27:47.884034   bot collected weather data
+
+- 2021-12-15 22:27:47.884497   bot created a backup
+
+- 2021-12-15 23:44:05.808761   bot is now online
+
+- 2021-12-16 00:42:43.847559   bot is now online
+
+- 2021-12-16 00:43:04.281770   bot collected weather data
+
+- 2021-12-16 00:43:04.282193   bot created a backup
+
+- 2021-12-17 00:02:16.335334   bot is now online
+
+- 2021-12-17 00:02:39.093338   bot collected weather data
+
+- 2021-12-17 00:02:39.093911   bot created a backup
+
+- 2021-12-17 12:37:16.362601   bot is now online
+
+- 2021-12-17 12:37:36.187837   bot collected weather data
+
+- 2021-12-17 12:37:36.188455   bot created a backup
+
+- 2021-12-17 22:45:43.069875   bot is now online
+
+- 2021-12-17 22:45:59.207276   bot collected weather data
+
+- 2021-12-17 22:45:59.207816   bot created a backup
+
+- 2021-12-18 22:31:03.214325   bot is now online
+
+- 2021-12-19 20:35:44.414308   bot is now online
+
+- 2021-12-19 20:36:05.402185   bot collected weather data
+
+- 2021-12-19 20:36:05.402576   bot created a backup
+
+- 2021-12-20 18:53:56.696038   bot is now online
+
+- 2021-12-20 18:54:18.879228   bot collected weather data
+
+- 2021-12-20 18:54:18.879808   bot created a backup
+
+- 2021-12-21 04:49:07.824077   bot is now online
+
+- 2021-12-21 20:39:37.362844   bot is now online
+
+- 2021-12-22 01:37:54.857899   bot is now online
+
+- 2021-12-22 01:38:14.381676   bot collected weather data
+
+- 2021-12-22 01:38:14.382210   bot created a backup
+
+- 2021-12-22 22:39:51.204587   bot is now online
+
+- 2021-12-23 01:15:14.277304   bot is now online
+
+- 2021-12-23 01:15:32.763194   bot collected weather data
+
+- 2021-12-23 01:15:32.763633   bot created a backup
+
+- 2021-12-23 18:33:21.882420   bot is now online
+
+- 2021-12-23 19:53:20.057710   bot is now online
+
+- 2021-12-23 19:53:35.771226   bot collected weather data
+
+- 2021-12-23 19:53:35.771738   bot created a backup
+
+- 2021-12-24 18:35:47.195831   bot is now online
+
+- 2021-12-24 18:36:05.123324   bot collected weather data
+
+- 2021-12-24 18:36:05.123861   bot created a backup
+
+- 2021-12-25 09:46:30.500273   bot is now online
+
+- 2021-12-25 18:28:14.544397   bot is now online
+
+- 2021-12-26 19:09:43.270113   bot is now online
+
+- 2021-12-26 19:34:41.461951   bot is now online
+
+- 2021-12-26 19:34:58.201996   bot collected weather data
+
+- 2021-12-26 19:34:58.202588   bot created a backup
+
+- 2021-12-27 03:35:29.644315   bot is now online
+
+- 2021-12-27 03:35:46.622015   bot collected weather data
+
+- 2021-12-27 03:35:46.622498   bot created a backup
+
+- 2021-12-27 13:21:59.660173   bot is now online
+
+- 2021-12-27 16:08:25.281344   bot is now online
+
+- 2021-12-27 16:08:43.292420   bot collected weather data
+
+- 2021-12-27 16:08:43.293436   bot created a backup
+
+- 2021-12-27 17:15:53.778747   bot is now online
+
+- 2021-12-27 17:16:13.156996   bot collected weather data
+
+- 2021-12-27 17:16:13.157564   bot created a backup
+
+- 2021-12-27 18:25:27.928081   bot is now online
+
+- 2021-12-27 18:37:19.698596   bot is now online
+
+- 2021-12-27 18:37:40.135133   bot collected weather data
+
+- 2021-12-27 18:37:40.135649   bot created a backup
+
+- 2021-12-27 22:19:09.863195   bot is now online
+
+- 2021-12-28 06:29:32.883515   bot is now online
+
+- 2021-12-28 06:29:52.438163   bot collected weather data
+
+- 2021-12-28 06:29:52.438813   bot created a backup
+
+- 2021-12-28 17:14:20.059061   bot is now online
+
+- 2021-12-28 18:01:19.619232   bot is now online
+
+- 2021-12-28 18:18:40.509888   bot is now online
+
+- 2021-12-28 18:19:00.376094   bot collected weather data
+
+- 2021-12-28 18:19:00.376610   bot created a backup
+
+- 2021-12-29 18:00:24.688669   bot is now online
+
+- 2021-12-29 18:00:45.214875   bot collected weather data
+
+- 2021-12-29 18:00:45.215325   bot created a backup
+
+- 2021-12-30 17:55:28.659622   bot is now online
+
+- 2021-12-30 22:28:50.919197   bot is now online
+
+- 2021-12-31 14:04:54.498410   bot is now online
+
+- 2021-12-31 14:05:14.134336   bot collected weather data
+
+- 2021-12-31 14:05:14.134918   bot created a backup
+
+- 2021-12-31 22:20:18.097848   bot is now online
+
+- 2021-12-31 22:20:33.110102   bot collected weather data
+
+- 2021-12-31 22:20:33.110603   bot created a backup
+
+- 2022-01-01 17:22:46.746482   bot is now online
+
+- 2022-01-01 17:23:04.215565   bot collected weather data
+
+- 2022-01-01 17:23:04.216182   bot created a backup
+
+- 2022-01-01 17:39:20.965141   bot is now online
+
+- 2022-01-01 17:39:39.574345   bot collected weather data
+
+- 2022-01-01 17:39:39.574948   bot created a backup
+
+- 2022-01-02 05:12:04.344976   bot is now online
+
+- 2022-01-02 05:12:22.249855   bot collected weather data
+
+- 2022-01-02 05:12:22.250362   bot created a backup
+
+- 2022-01-02 18:53:05.923164   bot is now online
+
+- 2022-01-02 18:53:27.725891   bot collected weather data
+
+- 2022-01-02 18:53:27.726478   bot created a backup
+
+- 2022-01-03 00:19:46.845248   bot is now online
+
+- 2022-01-03 00:20:07.440576   bot collected weather data
+
+- 2022-01-03 00:20:07.441046   bot created a backup
+
+- 2022-01-03 13:50:34.991218   bot is now online
+
+- 2022-01-03 13:50:50.144660   bot collected weather data
+
+- 2022-01-03 13:50:50.145226   bot created a backup
+
+- 2022-01-03 17:04:18.582950   bot is now online
+
+- 2022-01-03 21:08:20.794853   bot is now online
+
+- 2022-01-03 21:08:41.032776   bot collected weather data
+
+- 2022-01-03 21:08:41.033261   bot created a backup
+
+- 2022-01-04 13:54:18.861055   bot is now online
+
+- 2022-01-04 13:54:37.220220   bot collected weather data
+
+- 2022-01-04 13:54:37.220729   bot created a backup
+
+- 2022-01-04 22:31:46.908505   bot is now online
+
+- 2022-01-05 00:10:36.203540   bot is now online
+
+- 2022-01-05 00:10:57.856522   bot collected weather data
+
+- 2022-01-05 00:10:57.857462   bot created a backup
+
+- 2022-01-05 21:16:11.628423   bot is now online
+
+- 2022-01-05 22:07:58.973832   bot is now online
+
+- 2022-01-05 22:12:25.639313   bot is now online
+
+- 2022-01-05 22:22:51.718216   bot is now online
+
+- 2022-01-05 22:23:12.307016   bot collected weather data
+
+- 2022-01-05 22:23:12.307407   bot created a backup
+
+- 2022-01-05 23:55:41.902984   bot is now online
+
+- 2022-01-05 23:56:00.488903   bot collected weather data
+
+- 2022-01-05 23:56:00.489419   bot created a backup
+
+- 2022-01-06 23:41:35.591884   bot is now online
+
+- 2022-01-06 23:41:56.439264   bot collected weather data
+
+- 2022-01-06 23:41:56.439879   bot created a backup
+
+- 2022-01-07 23:03:13.122575   bot is now online
+
+- 2022-01-08 01:30:18.844167   bot is now online
+
+- 2022-01-08 01:30:38.714813   bot collected weather data
+
+- 2022-01-08 01:30:38.715263   bot created a backup
+
+- 2022-01-09 00:11:39.137890   bot is now online
+
+- 2022-01-09 00:11:58.991192   bot collected weather data
+
+- 2022-01-09 00:11:58.991666   bot created a backup
+
+- 2022-01-09 22:43:38.360021   bot is now online
+
+- 2022-01-09 22:44:00.091203   bot collected weather data
+
+- 2022-01-09 22:44:00.091737   bot created a backup
+
+- 2022-01-10 22:23:03.258952   bot is now online
+
+- 2022-01-10 23:28:47.919213   bot is now online
+
+- 2022-01-10 23:29:08.805528   bot collected weather data
+
+- 2022-01-10 23:29:08.806146   bot created a backup
+
+- 2022-01-11 21:12:38.361694   bot is now online
+
+- 2022-01-11 23:45:25.960500   bot is now online
+
+- 2022-01-12 06:15:32.127517   bot is now online
+
+- 2022-01-12 06:37:02.954021   bot is now online
+
+- 2022-01-12 23:38:05.039738   bot is now online
+
+- 2022-01-12 23:49:18.685505   bot is now online
+
+- 2022-01-13 20:05:34.339523   bot is now online
+
+- 2022-01-13 20:05:55.719991   bot collected weather data
+
+- 2022-01-13 20:05:55.720666   bot created a backup
+
+- 2022-01-14 06:06:23.845864   bot is now online
+
+- 2022-01-14 06:06:43.895314   bot collected weather data
+
+- 2022-01-14 06:06:43.895808   bot created a backup
+
+- 2022-01-15 00:46:09.886417   bot is now online
+
+- 2022-01-15 21:19:15.225408   bot is now online
+
+- 2022-01-15 21:19:33.001036   bot collected weather data
+
+- 2022-01-15 21:19:33.001619   bot created a backup
+
+- 2022-01-15 22:19:33.299832   bot collected weather data
+
+- 2022-01-15 23:19:35.769735   bot collected weather data
+
+- 2022-01-16 00:19:46.857794   bot collected weather data
+
+- 2022-01-16 00:19:46.858398   bot created a backup
+
+- 2022-01-16 01:19:42.060193   bot collected weather data
+
+- 2022-01-16 02:19:39.743387   bot collected weather data
+
+- 2022-01-16 03:19:42.493149   bot collected weather data
+
+- 2022-01-16 04:19:43.766345   bot collected weather data
+
+- 2022-01-16 05:19:42.339819   bot collected weather data
+
+- 2022-01-16 06:19:39.375692   bot collected weather data
+
+- 2022-01-16 07:19:42.651484   bot collected weather data
+
+- 2022-01-16 08:00:14.156134   bot is now online
+
+- 2022-01-16 08:00:33.927805   bot collected weather data
+
+- 2022-01-16 08:00:33.928437   bot created a backup
+
+- 2022-01-16 09:00:31.698567   bot collected weather data
+
+- 2022-01-16 10:00:29.849077   bot collected weather data
+
+- 2022-01-16 11:00:31.523339   bot collected weather data
+
+- 2022-01-16 12:00:39.404721   bot collected weather data
+
+- 2022-01-16 13:00:34.721990   bot collected weather data
+
+- 2022-01-16 14:00:34.097794   bot collected weather data
+
+- 2022-01-16 15:00:35.782231   bot collected weather data
+
+- 2022-01-16 16:00:43.915301   bot collected weather data
+
+- 2022-01-16 17:00:41.942230   bot collected weather data
+
+- 2022-01-16 18:00:38.359196   bot collected weather data
+
+- 2022-01-16 19:00:41.306134   bot collected weather data
+
+- 2022-01-16 20:00:36.191223   bot collected weather data
+
+- 2022-01-16 21:00:42.121518   bot collected weather data
+
+- 2022-01-16 22:00:55.131877   bot collected weather data
+
+- 2022-01-16 23:32:18.659254   bot is now online
+
+- 2022-01-17 20:04:45.438162   bot is now online
+
+- 2022-01-17 20:05:03.317530   bot collected weather data
+
+- 2022-01-17 20:05:03.318181   bot created a backup
+
+- 2022-01-17 23:18:45.807653   bot is now online
+
+- 2022-01-18 02:58:49.966780   bot is now online
+
+- 2022-01-18 03:11:06.649996   bot is now online
+
+- 2022-01-18 03:24:30.628409   bot is now online
+
+- 2022-01-19 00:38:35.184335   bot is now online
+
+- 2022-01-19 00:38:54.921598   bot collected weather data
+
+- 2022-01-19 00:38:54.922669   bot created a backup
+
+- 2022-01-19 17:15:12.357299   bot is now online
+
+- 2022-01-19 17:15:28.324347   bot collected weather data
+
+- 2022-01-19 17:15:28.324996   bot created a backup
+
+- 2022-01-20 07:55:01.827608   bot is now online
+
+- 2022-01-20 22:54:44.690105   bot is now online
+
+- 2022-01-21 22:52:53.798503   bot is now online
+
+- 2022-01-21 22:53:17.142464   bot collected weather data
+
+- 2022-01-21 22:53:17.143015   bot created a backup
+
+- 2022-01-22 13:18:20.975667   bot is now online
+
+- 2022-01-22 13:18:40.228471   bot collected weather data
+
+- 2022-01-22 13:18:40.229077   bot created a backup
+
+- 2022-01-23 07:58:06.869069   bot is now online
+
+- 2022-01-23 07:58:27.137838   bot collected weather data
+
+- 2022-01-23 07:58:27.138398   bot created a backup
+
+- 2022-01-24 05:20:32.392260   bot is now online
+
+- 2022-01-24 05:20:54.783519   bot collected weather data
+
+- 2022-01-24 05:20:54.784162   bot created a backup
+
+- 2022-01-25 00:56:23.661709   bot is now online
+
+- 2022-01-25 00:56:46.708587   bot collected weather data
+
+- 2022-01-25 00:56:46.709204   bot created a backup
+
+- 2022-01-25 13:45:20.442343   bot is now online
+
+- 2022-01-25 13:45:41.257257   bot collected weather data
+
+- 2022-01-25 13:45:41.257968   bot created a backup
+
+- 2022-01-25 23:12:46.396626   bot is now online
+
+- 2022-01-26 06:37:20.126636   bot is now online
+
+- 2022-01-26 23:48:48.715457   bot is now online
+
+- 2022-01-27 19:01:45.426333   bot is now online
+
+- 2022-01-27 19:02:04.653523   bot collected weather data
+
+- 2022-01-27 19:02:04.654195   bot created a backup
+
+- 2022-01-28 03:05:35.123704   bot is now online
+
+- 2022-01-28 03:05:56.857394   bot collected weather data
+
+- 2022-01-28 03:05:56.857943   bot created a backup
+
+- 2022-01-28 04:05:54.849878   bot collected weather data
+
+- 2022-01-28 05:06:02.790099   bot collected weather data
+
+- 2022-01-28 06:06:00.993895   bot collected weather data
+
+- 2022-01-28 06:26:18.427180   bot is now online
+
+- 2022-01-28 06:26:45.239094   bot collected weather data
+
+- 2022-01-28 06:26:45.239774   bot created a backup
+
+- 2022-01-28 07:26:41.693798   bot collected weather data
+
+- 2022-01-28 08:26:52.302893   bot collected weather data
+
+- 2022-01-28 09:26:53.125284   bot collected weather data
+
+- 2022-01-28 10:26:54.508924   bot collected weather data
+
+- 2022-01-28 11:26:44.015193   bot collected weather data
+
+- 2022-01-28 12:26:41.701290   bot collected weather data
+
+- 2022-01-28 13:26:40.719236   bot collected weather data
+
+- 2022-01-28 14:26:44.421379   bot collected weather data
+
+- 2022-01-28 15:26:42.625924   bot collected weather data
+
+- 2022-01-28 16:26:48.355593   bot collected weather data
+
+- 2022-01-28 17:26:44.384608   bot collected weather data
+
+- 2022-01-28 18:26:44.661918   bot collected weather data
+
+- 2022-01-28 19:26:42.701413   bot collected weather data
+
+- 2022-01-28 20:26:42.714891   bot collected weather data
+
+- 2022-01-28 21:26:42.648632   bot collected weather data
+
+- 2022-01-28 22:26:42.948636   bot collected weather data
+
+- 2022-01-28 23:26:44.286951   bot collected weather data
+
+- 2022-01-29 00:26:42.661476   bot collected weather data
+
+- 2022-01-29 00:26:42.662384   bot created a backup
+
+- 2022-01-29 01:26:43.497326   bot collected weather data
+
+- 2022-01-29 02:26:44.836389   bot collected weather data
+
+- 2022-01-29 02:28:45.240535   bot is now online
+
+- 2022-01-29 03:23:16.779636   bot is now online
+
+- 2022-01-29 16:58:46.828381   bot is now online
+
+- 2022-01-29 16:59:13.255655   bot collected weather data
+
+- 2022-01-29 16:59:13.257100   bot created a backup
+
+- 2022-01-29 17:59:09.848427   bot collected weather data
+
+- 2022-01-29 18:59:10.009989   bot collected weather data
+
+- 2022-01-29 19:59:07.130974   bot collected weather data
+
+- 2022-01-29 20:59:11.110263   bot collected weather data
+
+- 2022-01-29 21:59:08.227074   bot collected weather data
+
+- 2022-01-29 22:59:08.222490   bot collected weather data
+
+- 2022-01-29 23:59:11.375218   bot collected weather data
+
+- 2022-01-30 00:59:07.458791   bot collected weather data
+
+- 2022-01-30 00:59:07.459389   bot created a backup
+
+- 2022-01-30 01:59:12.790343   bot collected weather data
+
+- 2022-01-30 02:59:20.840653   bot collected weather data
+
+- 2022-01-30 03:23:43.790385   bot is now online
+
+- 2022-01-30 07:12:33.209223   bot is now online
+
+- 2022-01-30 23:45:14.979482   bot is now online
+
+- 2022-01-30 23:45:32.905061   bot collected weather data
+
+- 2022-01-30 23:45:32.905609   bot created a backup
+
+- 2022-01-31 10:38:36.976628   bot is now online
+
+- 2022-01-31 18:16:41.989905   bot is now online
+
+- 2022-01-31 18:17:03.966605   bot collected weather data
+
+- 2022-01-31 18:17:03.967255   bot created a backup
+
+- 2022-01-31 23:02:47.339168   bot is now online
+
+- 2022-01-31 23:03:10.327276   bot collected weather data
+
+- 2022-01-31 23:03:10.327849   bot created a backup
+
+- 2022-02-01 15:13:51.075736   bot is now online
+
+- 2022-02-01 23:16:33.743572   bot is now online
+
+- 2022-02-01 23:16:51.585143   bot collected weather data
+
+- 2022-02-01 23:16:51.585637   bot created a backup
+
+- 2022-02-02 01:37:32.222150   bot is now online
+
+- 2022-02-02 21:40:15.492020   bot is now online
+
+- 2022-02-02 21:43:20.277060   bot is now online
+
+- 2022-02-02 21:43:40.960126   bot collected weather data
+
+- 2022-02-02 21:43:40.960582   bot created a backup
+
+- 2022-02-03 05:26:09.082602   bot is now online
+
+- 2022-02-03 05:26:32.960711   bot collected weather data
+
+- 2022-02-03 05:26:32.961276   bot created a backup
+
+- 2022-02-03 12:11:31.042464   bot is now online
+
+- 2022-02-03 12:11:52.810914   bot collected weather data
+
+- 2022-02-03 12:11:52.811511   bot created a backup
+
+- 2022-02-03 19:33:53.254643   bot is now online
+
+- 2022-02-03 19:34:13.710321   bot collected weather data
+
+- 2022-02-03 19:34:13.710809   bot created a backup
+
+- 2022-02-04 04:43:14.443608   bot is now online
+
+- 2022-02-04 06:29:43.691775   bot is now online
+
+- 2022-02-04 06:30:07.251001   bot collected weather data
+
+- 2022-02-04 06:30:07.251525   bot created a backup
+
+- 2022-02-04 07:24:18.036421   bot is now online
+
+- 2022-02-04 07:24:41.225079   bot collected weather data
+
+- 2022-02-04 07:24:41.225702   bot created a backup
+
+- 2022-02-04 23:54:39.219440   bot is now online
+
+- 2022-02-04 23:54:58.242102   bot collected weather data
+
+- 2022-02-04 23:54:58.242690   bot created a backup
+
+- 2022-02-05 01:00:17.962380   bot is now online
+
+- 2022-02-05 01:00:37.292361   bot collected weather data
+
+- 2022-02-05 01:00:37.292848   bot created a backup
+
+- 2022-02-05 10:32:45.404530   bot is now online
+
+- 2022-02-05 10:33:02.741854   bot collected weather data
+
+- 2022-02-05 10:33:02.742459   bot created a backup
+
+- 2022-02-05 11:07:43.463842   bot is now online
+
+- 2022-02-05 11:08:01.163384   bot collected weather data
+
+- 2022-02-05 11:08:01.164033   bot created a backup
+
+- 2022-02-06 04:53:11.023649   bot is now online
+
+- 2022-02-06 04:53:27.887162   bot collected weather data
+
+- 2022-02-06 04:53:27.887856   bot created a backup
+
+- 2022-02-07 02:27:37.025880   bot is now online
+
+- 2022-02-07 03:52:34.020038   bot is now online
+
+- 2022-02-07 03:52:54.254345   bot collected weather data
+
+- 2022-02-07 03:52:54.254993   bot created a backup
+
+- 2022-02-08 03:46:56.424258   bot is now online
+
+- 2022-02-08 10:39:11.002288   bot is now online
+
+- 2022-02-08 10:39:31.479921   bot collected weather data
+
+- 2022-02-08 10:39:31.480576   bot created a backup
+
+- 2022-02-08 23:13:22.280583   bot is now online
+
+- 2022-02-08 23:13:46.729454   bot collected weather data
+
+- 2022-02-08 23:13:46.730065   bot created a backup
+
+- 2022-02-09 02:22:08.036291   bot is now online
+
+- 2022-02-09 02:22:31.294194   bot collected weather data
+
+- 2022-02-09 02:22:31.294725   bot created a backup
+
+- 2022-02-10 00:40:49.619521   bot is now online
+
+- 2022-02-10 05:33:59.001814   bot is now online
+
+- 2022-02-10 05:34:22.501445   bot collected weather data
+
+- 2022-02-10 05:34:22.501897   bot created a backup
+
+- 2022-02-10 06:34:16.750018   bot collected weather data
+
+- 2022-02-10 07:34:22.479628   bot collected weather data
+
+- 2022-02-10 08:34:21.757645   bot collected weather data
+
+- 2022-02-10 09:34:24.891832   bot collected weather data
+
+- 2022-02-10 10:34:24.334385   bot collected weather data
+
+- 2022-02-10 11:34:30.307282   bot collected weather data
+
+- 2022-02-10 12:34:25.212537   bot collected weather data
+
+- 2022-02-10 13:34:25.632001   bot collected weather data
+
+- 2022-02-10 14:34:34.100327   bot collected weather data
+
+- 2022-02-10 15:34:40.287515   bot collected weather data
+
+- 2022-02-10 16:35:00.955268   bot collected weather data
+
+- 2022-02-10 17:34:42.225466   bot collected weather data
+
+- 2022-02-10 18:34:33.068422   bot collected weather data
+
+- 2022-02-10 19:34:40.223998   bot collected weather data
+
+- 2022-02-10 20:34:35.663458   bot collected weather data
+
+- 2022-02-10 21:34:40.233798   bot collected weather data
+
+- 2022-02-10 22:34:36.723333   bot collected weather data
+
+- 2022-02-10 23:34:27.162891   bot collected weather data
+
+- 2022-02-11 00:34:28.402219   bot collected weather data
+
+- 2022-02-11 00:34:28.402946   bot created a backup
+
+- 2022-02-11 01:34:28.938460   bot collected weather data
+
+- 2022-02-11 02:34:32.665972   bot collected weather data
+
+- 2022-02-11 02:47:50.137316   bot is now online
+
+- 2022-02-11 05:15:39.920117   bot is now online
+
+- 2022-02-11 06:28:49.180653   bot is now online
+
+- 2022-02-11 06:29:09.650516   bot collected weather data
+
+- 2022-02-11 06:29:09.651117   bot created a backup
+
+- 2022-02-11 07:45:29.360218   bot is now online
+
+- 2022-02-11 07:45:47.055467   bot collected weather data
+
+- 2022-02-11 07:45:47.055973   bot created a backup
+
+- 2022-02-12 04:43:34.930255   bot is now online
+
+- 2022-02-12 04:43:52.936934   bot collected weather data
+
+- 2022-02-12 04:43:52.937501   bot created a backup
+
+- 2022-02-13 04:22:42.304660   bot is now online
+
+- 2022-02-13 04:23:03.605430   bot collected weather data
+
+- 2022-02-13 04:23:03.606044   bot created a backup
+
+- 2022-02-14 01:26:57.980967   bot is now online
+
+- 2022-02-14 04:29:48.882253   bot is now online
+
+- 2022-02-14 06:34:51.342161   bot is now online
+
+- 2022-02-14 06:35:13.911521   bot collected weather data
+
+- 2022-02-14 06:35:13.912550   bot created a backup
+
+- 2022-02-15 03:28:58.316878   bot is now online
+
+- 2022-02-15 07:10:42.303410   bot is now online
+
+- 2022-02-15 10:19:02.522361   bot is now online
+
+- 2022-02-15 16:05:07.047439   bot is now online
+
+- 2022-02-15 22:38:49.253443   bot is now online
+
+- 2022-02-16 01:30:30.692217   bot is now online
+
+- 2022-02-16 01:30:53.098633   bot collected weather data
+
+- 2022-02-16 01:30:53.099501   bot created a backup
+
+- 2022-02-16 04:01:53.572794   bot is now online
+
+- 2022-02-16 04:39:44.273768   bot is now online
+
+- 2022-02-16 14:49:36.639845   bot is now online
+
+- 2022-02-17 02:07:46.904159   bot is now online
+
+- 2022-02-17 03:48:04.076301   bot is now online
+
+- 2022-02-17 18:27:14.663350   bot is now online
+
+- 2022-02-17 23:56:29.335471   bot is now online
+
+- 2022-02-17 23:56:45.856929   bot collected weather data
+
+- 2022-02-17 23:56:45.857553   bot created a backup
+
+- 2022-02-18 19:06:45.119435   bot is now online
+
+- 2022-02-19 02:50:33.408470   bot is now online
+
+- 2022-02-19 07:52:15.123371   bot is now online
+
+- 2022-02-19 13:15:02.324801   bot is now online
+
+- 2022-02-20 05:26:35.761820   bot is now online
+
+- 2022-02-20 16:53:46.651530   bot is now online
+
+- 2022-02-20 16:54:04.965575   bot collected weather data
+
+- 2022-02-20 16:54:04.966325   bot created a backup
+
+- 2022-02-21 11:03:57.186527   bot is now online
+
+- 2022-02-21 15:54:30.240010   bot is now online
+
+- 2022-02-22 03:17:21.171546   bot is now online
+
+- 2022-02-22 07:41:09.207698   bot is now online
+
+- 2022-02-22 11:43:19.426273   bot is now online
+
+- 2022-02-22 11:43:38.508507   bot collected weather data
+
+- 2022-02-22 11:43:38.509361   bot created a backup
+
+- 2022-02-22 17:11:35.372081   bot is now online
+
+- 2022-02-22 19:49:01.158746   bot is now online
+
+- 2022-02-22 19:49:22.804297   bot collected weather data
+
+- 2022-02-22 19:49:22.805202   bot created a backup
+
+- 2022-02-23 01:06:16.995777   bot is now online
+
+- 2022-02-23 01:50:56.277131   bot is now online
+
+- 2022-02-23 01:51:22.812015   bot collected weather data
+
+- 2022-02-23 01:51:22.812591   bot created a backup
+
+- 2022-02-24 01:05:12.034087   bot is now online
+
+- 2022-02-24 01:05:28.741578   bot collected weather data
+
+- 2022-02-24 01:05:28.742101   bot created a backup
+
+- 2022-02-24 08:05:16.118945   bot is now online
+
+- 2022-02-24 08:05:40.043086   bot collected weather data
+
+- 2022-02-24 08:05:40.043716   bot created a backup
+
+- 2022-02-24 11:50:01.749317   bot is now online
+
+- 2022-02-24 12:57:50.355827   bot is now online
+
+- 2022-02-24 20:59:59.685928   bot is now online
+
+- 2022-02-24 21:00:16.481508   bot collected weather data
+
+- 2022-02-24 21:00:16.482050   bot created a backup
+
+- 2022-02-24 22:42:36.340329   bot is now online
+
+- 2022-02-24 22:42:59.390171   bot collected weather data
+
+- 2022-02-24 22:42:59.390756   bot created a backup
+
+- 2022-02-25 21:07:08.682748   bot is now online
+
+- 2022-02-25 23:20:04.743210   bot is now online
+
+- 2022-02-25 23:20:24.825274   bot collected weather data
+
+- 2022-02-25 23:20:24.825813   bot created a backup
+
+- 2022-02-26 10:43:17.812577   bot is now online
+
+- 2022-02-26 20:52:13.640966   bot is now online
+
+- 2022-02-26 20:52:34.522184   bot collected weather data
+
+- 2022-02-26 20:52:34.522748   bot created a backup
+
+- 2022-02-27 16:14:42.950200   bot is now online
+
+- 2022-02-27 16:15:03.312225   bot collected weather data
+
+- 2022-02-27 16:15:03.312799   bot created a backup
+
+- 2022-02-28 02:47:50.657308   bot is now online
+
+- 2022-02-28 06:51:19.352562   bot is now online
+
+- 2022-02-28 21:48:54.273537   bot is now online
+
+- 2022-02-28 21:49:11.460702   bot collected weather data
+
+- 2022-02-28 21:49:11.461339   bot created a backup
+
+- 2022-02-28 23:22:27.931138   bot is now online
+
+- 2022-02-28 23:22:50.951906   bot collected weather data
+
+- 2022-02-28 23:22:50.952514   bot created a backup
+
+- 2022-03-01 05:22:37.710677   bot is now online
+
+- 2022-03-01 22:51:59.830563   bot is now online
+
+- 2022-03-01 22:52:22.371229   bot collected weather data
+
+- 2022-03-01 22:52:22.371870   bot created a backup
+
+- 2022-03-02 02:53:42.240940   bot is now online
+
+- 2022-03-02 02:54:06.550565   bot collected weather data
+
+- 2022-03-02 02:54:06.551283   bot created a backup
+
+- 2022-03-02 03:56:19.235012   bot is now online
+
+- 2022-03-02 18:15:16.718917   bot is now online
+
+- 2022-03-02 18:15:42.593061   bot collected weather data
+
+- 2022-03-02 18:15:42.593507   bot created a backup
+
